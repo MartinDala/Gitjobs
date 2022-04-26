@@ -30,5 +30,4 @@ It is a mobile application that shows different remote technology and programmin
 
 ## RESOURCES
 - [UI FIGMA ](https://www.figma.com/file/YpZqVXXhUw3al7pa0XjwL0/GitJobs?node-id=0%3A1) <br>
-
-- [APIs] (https://www.figma.com/file/YpZqVXXhUw3al7pa0XjwL0/GitJobs?node-id=0%3A1)
+- [APIs ](https://www.figma.com/file/YpZqVXXhUw3al7pa0XjwL0/GitJobs?node-id=0%3A1) <br>
