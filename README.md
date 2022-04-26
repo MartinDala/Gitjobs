@@ -10,11 +10,11 @@ It is a mobile application that shows different remote technology and programmin
 💡GetX <br>
 💡Github API <br>
 
-# Packages:
+# PACKAGES:
 💡GetX <br>
 💡URL Launch <br>
 
-## FEACTURES AND SCREENS
+## SCREENS PAGES
 💡Splash <br>
 💡Login <br>
 💡Home  <br>
@@ -23,6 +23,12 @@ It is a mobile application that shows different remote technology and programmin
 💡Details Jobs <br>
 
 
+## FUCNTIONALITIES
+💡Login with Github API Account <br>
+💡Show jobs of Github API Issue <br>
+💡Show job categories   <br>
 
 ## RESOURCES
 - [UI FIGMA ](https://www.figma.com/file/YpZqVXXhUw3al7pa0XjwL0/GitJobs?node-id=0%3A1) <br>
+
+- [APIs] (https://www.figma.com/file/YpZqVXXhUw3al7pa0XjwL0/GitJobs?node-id=0%3A1)
