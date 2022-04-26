@@ -1,4 +1,4 @@
- 🪔🗂️GITJOBS APP
+ # 🪔🗂️ GITJOBS APP
 
 It is a mobile application that shows different remote technology and programming vacancies, our source is the issue of public repositories of Brazilian communities and PALOPs to list all vacancies for front-end, back-end, and mobile developers.
 
