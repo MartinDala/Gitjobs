@@ -1,4 +1,4 @@
 import 'package:flutter/cupertino.dart';
-import 'package:git_jobs/home_page.dart';
+import 'package:git_jobs/app/app_widget.dart';
 
-void main() => runApp(const HomePage());
+void main() => runApp(const AppWidget());

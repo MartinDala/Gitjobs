@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
-import 'package:git_jobs/pages/splash_screen_controller.dart';
+import 'package:git_jobs/pages/splash/splash_screen_controller.dart';
 
-class SplashScrenBinding extends Bindings {
+class SplashScreenBinding extends Bindings {
   @override
   void dependencies() {
     Get.lazyPut(() => SplashScreenController());
